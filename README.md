@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mulaudzi Janill Malapa
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning System Development in Boston City Campyus
+- 🌱 I’m currently learning System Development in Boston City Campus
 - 📫 You can reach me on my Email("mulaudzimalapa9@gmail.com)
 
 <!---
